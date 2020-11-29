@@ -3,9 +3,9 @@
 
 Hardware layout：
 
-![layout](C:\Users\15824\Desktop\xilinx\layout.jpg)
+![layout](img\layout.jpg)
 
 Image test for functionality：
 
-![image-20201129111317248](C:\Users\15824\AppData\Roaming\Typora\typora-user-images\image-20201129111317248.png)
+![image-20201129111317248](img\image-20201129111317248.png)
 
