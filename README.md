@@ -3,9 +3,9 @@
 
 Hardware layout：
 
-![layout](img\layout.jpg)
+![layout](https://github.com/jedibobo/FPGA_HW_Acceleration_Social_Disatancing_Monitor/blob/main/img/layout.jpg)
 
 Image test for functionality：
 
-![image-20201129111317248](img\image-20201129111317248.png)
+![image-20201129111317248](https://github.com/jedibobo/FPGA_HW_Acceleration_Social_Disatancing_Monitor/blob/main/img/image-20201129111317248.png)
 
