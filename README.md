@@ -4,9 +4,9 @@
 Hardware layout：
 
 ![layout](https://github.com/jedibobo/FPGA_HW_Acceleration_Social_Disatancing_Monitor/blob/main/img/layout.jpg)
-
+<img src="https://github.com/jedibobo/FPGA_HW_Acceleration_Social_Disatancing_Monitor/blob/main/img/layout.jpg" width="600" align="center">
 Image test for functionality：
 
 ![image-20201129111317248](https://github.com/jedibobo/FPGA_HW_Acceleration_Social_Disatancing_Monitor/blob/main/img/image-20201129111317248.png)
 
-<img src="https://github.com/jedibobo/FPGA_HW_Acceleration_Social_Disatancing_Monitor/blob/main/img/image-20201129111317248.png" width="400" align="middle">
+<img src="https://github.com/jedibobo/FPGA_HW_Acceleration_Social_Disatancing_Monitor/blob/main/img/image-20201129111317248.png" width="800" align="center">
