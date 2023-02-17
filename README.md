@@ -25,3 +25,7 @@ If there is one python package missing, please install it on your own. (for I al
 
 1. improve performance from Hardward(utilize more hardware resources like resize and more powerful DPU) and Software(reading USB camera is I/O block job).
 2. 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jedibobo/FPGA_HW_Acceleration_Social_Disatancing_Monitor&type=Date)](https://star-history.com/#jedibobo/FPGA_HW_Acceleration_Social_Disatancing_Monitor&Date)
